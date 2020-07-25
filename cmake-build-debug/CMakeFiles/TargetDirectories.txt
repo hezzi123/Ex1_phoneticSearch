@@ -1,0 +1,3 @@
+C:/Users/ariki/CLionProjects/Ex1_phoneticSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ariki/CLionProjects/Ex1_phoneticSearch/cmake-build-debug/CMakeFiles/Ex1_phoneticSearch.dir
+C:/Users/ariki/CLionProjects/Ex1_phoneticSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
